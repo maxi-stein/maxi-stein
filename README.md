@@ -1,9 +1,9 @@
-Hi! I am Maximiliano Stein and welcome to my repository. I am a 26yo student of Informatics at ISNPT (UTN).
+Hi! I am Maximiliano Stein and welcome to my repository. I am a 26yo student of Informatics at INSPT (UTN).
 There, i first started coding with C and getting to know about essential concepts such as Variables, Loops, Pointers, Functions, Arrays, Strings,
 Structs and File Management.
 
 I’m very found of Automatization, IA and Data Science. However since i am very new to Coding, i know there are a variety of concepts to discover!
-I’m currently learning Python alongside with Git & GitHub management. 
+I’m also currently learning Python alongside with Git & GitHub. 
 
 If you want to reach me, these are my credentials:
 
