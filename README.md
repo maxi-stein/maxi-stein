@@ -1,11 +1,7 @@
-Hi! I am Maximiliano Stein and welcome to my repository. I am a 26yo student of Informatics at INSPT (UTN).
-There, i first started coding with C and getting to know about essential concepts such as Variables, Loops, Pointers, Functions, Arrays, Strings,
-Structs and File Management.
+Hi! I am Maximiliano Stein and welcome to my repository. I am a 27yo Computer Science student at INSPT (UTN).
+I first started coding with C and became familiar with essential programming concepts. I'm currently Studying Object Oriented Programming in Java.
 
-I’m very found of Automatization, IA and Data Science. However since i am very new to Coding, i know there plenty of concepts to explore and discover!
-I’m also currently learning Python alongside with Git & GitHub. 
-
-If you want to reach me, these are my credentials:
+If you want to reach me, feel free to contact me. My credentials are:
 
 linkedin: https://www.linkedin.com/in/maximiliano-stein-6b478a11b/
 mail: maxi_stein23@hotmail.com
