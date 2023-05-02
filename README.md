@@ -7,7 +7,7 @@ Mis habilidades de programacion actualmente son:
 
 Si necesitas contactarme, no dudes en hacerlo. Mis credenciales son:
 
-LinkedIn: https://www.linkedin.com/in/maximiliano-stein-6b478a11b/
+LinkedIn: https://www.linkedin.com/in/maximiliano-stein/
 Correo electrónico: maxi_stein23@hotmail.com
 
 English:
@@ -20,7 +20,7 @@ My current skills in programming are:
 
 If you want to reach me, feel free to contact me. My credentials are:
 
-linkedin: https://www.linkedin.com/in/maximiliano-stein-6b478a11b/
+linkedin: https://www.linkedin.com/in/maximiliano-stein/
 mail: maxi_stein23@hotmail.com
 
 
