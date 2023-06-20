@@ -1,4 +1,3 @@
-Spanish:
 Hola, soy Maximiliano Stein y bienvenido a mi repositorio. Soy un estudiante de 27 años de la carrera de Ciencias de la Computación en INSPT (UTN).
 Mis habilidades de programacion actualmente son:
 -C (Estructura y Base de datos)
