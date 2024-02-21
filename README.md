@@ -5,10 +5,15 @@ Soy **Maximiliano Stein**, un estudiante avanzado en el último año de **Inform
 
 ## Mis habilidades
 🌐 Desarrollo de **Web Apps** dinámicas y modernas con **Spring Boot**.
+
 🔗 Creación de **REST API** robustas tambien con **Spring Boot**.
+
 💾 Manejo de bases de datos con **MySQL** y **Hibernate/JPA**.
+
 🎨 Diseño web con **Thymeleaf**, **HTML** y **CSS**.
+
 🛠️ Experiencia en **Patrones de diseño** y **Modelado UML** para abordar proyectos de manera estructurada y eficiente.
+
 
 ## Objetivos profesionales
 Con una sólida formación académica y habilidades técnicas, estoy preparado para iniciarme en mi **primer desafío profesional en el sector IT**. Estoy abierto a oportunidades que me permitan crecer y aportar valor a través de mis conocimientos técnicos y expertise en el trabajo en equipo.
