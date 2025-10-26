@@ -16,91 +16,47 @@ When I’m not coding, you can find me tinkering with new tech stacks or explori
 
 ### Frontend
 
-<div style="display: flex; flex-wrap: wrap; gap: 36px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-    <p>TypeScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-    <p>HTML</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-    <p>CSS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-    <p>TailwindCSS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-    <p>JavaScript</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" /><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /><br/>TailwindCSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" /><br/>JavaScript</td>
+  </tr>
+</table>
 
 ### Backend
 
-<div style="display: flex; flex-wrap: wrap; gap: 36px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
-    <p>NestJS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-    <p>Node.js</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-    <p>Express</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
-    <p>PostgreSQL</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-    <p>Redis</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" /><br/>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" /><br/>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /><br/>Redis</td>
+  </tr>
+</table>
 
 ### Tools & Testing
 
-<div style="display: flex; flex-wrap: wrap; gap: 36px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-    <p>Git</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-    <p>GitLab</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-    <p>Jest</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
-    <p>NPM</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" /><br/>GitLab</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" /><br/>Jest</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" /><br/>NPM</td>
+  </tr>
+</table>
 
 ### Cloud & DevOps
 
-<div style="display: flex; flex-wrap: wrap; gap: 36px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-    <p>Docker</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-    <p>Kubernetes</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /><br/>Docker</td>
+  </tr>
+</table>
 
 ---
 
