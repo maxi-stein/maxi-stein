@@ -18,12 +18,12 @@ When I’m not coding, you can find me tinkering with new tech stacks or explori
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" /><br/>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /><br/>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /><br/>TailwindCSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" /><br/>JavaScript</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /><br/>TypeScript</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /><br/>React</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" /><br/>HTML</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /><br/>CSS</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /><br/>TailwindCSS</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" /><br/>JavaScript</td>
   </tr>
 </table>
 
@@ -31,11 +31,11 @@ When I’m not coding, you can find me tinkering with new tech stacks or explori
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" /><br/>NestJS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /><br/>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" /><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /><br/>Redis</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" /><br/>NestJS</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /><br/>Node.js</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /><br/>Express</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" /><br/>PostgreSQL</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /><br/>Redis</td>
   </tr>
 </table>
 
@@ -43,10 +43,10 @@ When I’m not coding, you can find me tinkering with new tech stacks or explori
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" /><br/>GitLab</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" /><br/>Jest</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" /><br/>NPM</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /><br/>Git</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" /><br/>GitLab</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" /><br/>Jest</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" /><br/>NPM</td>
   </tr>
 </table>
 
@@ -54,7 +54,7 @@ When I’m not coding, you can find me tinkering with new tech stacks or explori
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /><br/>Docker</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /><br/>Docker</td>
   </tr>
 </table>
 
